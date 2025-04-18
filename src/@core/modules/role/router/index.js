@@ -1,0 +1,6 @@
+export { roleRouter } from './modules/role'
+export { roleAuthRouter } from './modules/role-auth'
+export { memberRoleRouter } from './modules/member-role'
+export { memberRoleAuthRouter } from './modules/member-role-auth'
+export { roleManageRouter } from './modules/role-manage'
+export { memberRoleManageRouter } from './modules/member-role-manage'
